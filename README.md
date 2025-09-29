@@ -128,6 +128,11 @@ for invoice_no, data in grouped:
 
 
 </details>
+🚀 Just finished building an **Invoice Generator with Python** that reads Excel files and exports PDFs automatically!
+
+📄 Check out the full Python code here 👉 [Invoice Generator Python Code](https://gist.github.com/chatgpt-helper/8d5b6f7f17b08ef75a8f6b21f4e6ec4e)
+
+#Python #Automation #PDFGeneration #Excel #fpdf #pandas #OpenSource #GitHub
 
 
 
